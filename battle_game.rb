@@ -177,5 +177,3 @@ while ($player_1[:health] > 0 && $player_1[:energy] > 0) && ($player_2[:health] 
 end
 
 game.print_scoreboard
-
-test
